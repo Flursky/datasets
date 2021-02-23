@@ -1,4 +1,4 @@
-GeneID1,GeneID2,Type,Expression_Corr
+GeneID1,GeneID2,Interaction_Type,Expression_Corr
 G234064,G234126,Genetic-Physical,0.914095071
 G234064,G235065,Genetic-Physical,0.751584888
 G234065,G234371,Genetic,0.823773738
